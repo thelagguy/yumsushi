@@ -1,0 +1,677 @@
+{
+  "restaurant": "Yummy Sushi Wilkoppies",
+  "currency": "ZAR",
+  "price_note": "All prices are 'from' prices (base price before options)",
+  "sections": [
+    {
+      "name": "Soup",
+      "items": [
+        {
+          "name": "Chicken Corn",
+          "price_from": 40.0,
+          "description": "Chicken and sweet corn soup."
+        },
+        {
+          "name": "Chicken Noodle",
+          "price_from": 40.0,
+          "description": "Chicken with veg and noodles soup."
+        }
+      ]
+    },
+    {
+      "name": "Spring Roll (2piece)",
+      "items": [
+        {
+          "name": "Spring Roll (2pc)",
+          "price_from": 43.0,
+          "description": "Pastry filled with choice of protein, cabbage and carrots."
+        }
+      ]
+    },
+    {
+      "name": "Rice Dishes",
+      "items": [
+        {
+          "name": "Crispy Chicken",
+          "price_from": 111.0,
+          "description": "Deep fried chicken."
+        },
+        {
+          "name": "Chicken Sweet & Sour",
+          "price_from": 111.0,
+          "description": "Tender chicken pieces coated in a tangy, sweet, and sour sauce for a flavorful delight."
+        },
+        {
+          "name": "Chicken Chop Suey",
+          "price_from": 111.0,
+          "description": "A savory Chinese-American dish made with stir-fried chicken, vegetables, and a flavorful sauce, often served with rice or noodles."
+        },
+        {
+          "name": "Chicken Mushroom & Bamboo Shoot",
+          "price_from": 114.0,
+          "description": "A delicious dish featuring tender chicken, earthy mushrooms, and crisp bamboo shoots in a savory sauce."
+        },
+        {
+          "name": "Chicken Cashew Nuts",
+          "price_from": 114.0,
+          "description": "A flavorful stir-fry of tender chicken and crunchy cashew nuts in a savory sauce."
+        },
+        {
+          "name": "Chicken Foo Yong (Omelette)",
+          "price_from": 114.0,
+          "description": "A fluffy omelette packed with tender chicken and savory flavors."
+        },
+        {
+          "name": "Chicken With Oyster Sauce",
+          "price_from": 114.0,
+          "description": "Succulent chicken cooked in a rich and savory oyster sauce."
+        },
+        {
+          "name": "Sweet & Sour Pork",
+          "price_from": 117.0,
+          "description": "Deep fried pork inside a dough , Vegs : green peppers, onions, carrots & pineapples."
+        },
+        {
+          "name": "Pork Chop Suey",
+          "price_from": 114.0,
+          "description": "A hearty stir-fry of pork and mixed vegetables in a savory sauce."
+        },
+        {
+          "name": "Pork Foo Yong (Omelette)",
+          "price_from": 114.0,
+          "description": "A savory Chinese-style omelette made with pork, eggs, and vegetables, often served with a flavorful sauce."
+        },
+        {
+          "name": "Crispy Pork",
+          "price_from": 114.0,
+          "description": "Deep fried pork with sauce."
+        },
+        {
+          "name": "Beef Sweet & Sour",
+          "price_from": 121.09,
+          "description": "Tender beef pieces in a tangy and sweet sauce, paired with colorful bell peppers and pineapple."
+        },
+        {
+          "name": "Beef Chop Suey",
+          "price_from": 117.0,
+          "description": "A savory stir-fry dish featuring tender beef, crisp vegetables, and a flavorful sauce."
+        },
+        {
+          "name": "Beef With Oyster Sauce",
+          "price_from": 117.0,
+          "description": "Juicy beef cooked in a rich and savory oyster sauce with fresh vegetables."
+        },
+        {
+          "name": "Beef Foo Yong (Omelette)",
+          "price_from": 117.0,
+          "description": "Fluffy omelette filled with tender beef and vegetables in flavorful seasoning."
+        },
+        {
+          "name": "Crispy Beef",
+          "price_from": 117.0,
+          "description": "Deep fried beef."
+        },
+        {
+          "name": "Beef Cashew Nuts",
+          "price_from": 121.0,
+          "description": "Tender beef stir-fried with crunchy cashew nuts and vibrant vegetables."
+        },
+        {
+          "name": "Duck Sweet & Sour",
+          "price_from": 126.0,
+          "description": "Deep fried duck inside a dough , Vegs : green peppers, onions, carrots & pineapples."
+        },
+        {
+          "name": "Duck Chop Suey",
+          "price_from": 126.0,
+          "description": "Succulent duck stir-fried with crisp vegetables in a savory sauce."
+        },
+        {
+          "name": "Duck With Oyster Sauce",
+          "price_from": 126.0,
+          "description": "Tender duck cooked in a rich and flavorful oyster sauce."
+        },
+        {
+          "name": "Duck Bamboo Mushroom",
+          "price_from": 126.0,
+          "description": "Savory duck stir-fried with tender bamboo shoots and earthy mushrooms."
+        },
+        {
+          "name": "Duck Foo Yong (Omelette)",
+          "price_from": 127.0,
+          "description": "Fluffy omelette packed with succulent duck and seasoned vegetables."
+        },
+        {
+          "name": "Crispy Duck",
+          "price_from": 129.0,
+          "description": "Deep fried duck with sauce."
+        },
+        {
+          "name": "Vegetable Chop Suey",
+          "price_from": 93.0,
+          "description": "A vibrant stir-fry of fresh, crisp vegetables in a savory sauce."
+        },
+        {
+          "name": "Vegetable Foo Yong (Omelette)",
+          "price_from": 93.0,
+          "description": "A fluffy omelette filled with a medley of fresh, seasoned vegetables."
+        },
+        {
+          "name": "Prawn Sweet & Sour",
+          "price_from": 136.0,
+          "description": "Juicy prawns cooked in a tangy and sweet & sour sauce with vegetables."
+        },
+        {
+          "name": "Prawn With Cashew Nuts",
+          "price_from": 136.0,
+          "description": "Succulent prawns stir-fried with crunchy cashew nuts and fresh vegetables."
+        },
+        {
+          "name": "Prawn Foo Yong (Omelette)",
+          "price_from": 136.0,
+          "description": "A fluffy omelette filled with tender prawns and seasoned vegetables."
+        },
+        {
+          "name": "Crispy Prawn",
+          "price_from": 150.0,
+          "description": "Deep fried prawn with salt and pepper powder."
+        },
+        {
+          "name": "Pork With Oyster Sauce",
+          "price_from": 117.0,
+          "description": "Pork rolled with green peppers, onions & carrots."
+        },
+        {
+          "name": "Beef Mushroom & Bamboo",
+          "price_from": 121.0,
+          "description": "Beef with mushroom and bamboo."
+        },
+        {
+          "name": "Pork Mushroom & Bamboo",
+          "price_from": 117.0,
+          "description": "Pork with mushroom and bamboo."
+        },
+        {
+          "name": "Pork Ribs With Garlic Salt",
+          "price_from": 136.0,
+          "description": "Deep fried pork ribs with garlic salt."
+        },
+        {
+          "name": "Sizzling Green Pepper Beef",
+          "price_from": 121.0,
+          "description": "Fried beef with onion & green pepper on hot pan."
+        },
+        {
+          "name": "Sizzling Black Pepper Sauce Beef",
+          "price_from": 126.0,
+          "description": "Fried beef with onion & black pepper on hot pan."
+        }
+      ]
+    },
+    {
+      "name": "Chow Faan (Fried Rice)",
+      "items": [
+        {
+          "name": "Prawn Fried Rice",
+          "price_from": 131.0,
+          "description": "Prawn, carrot, peas and spring onion."
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price_from": 111.0,
+          "description": "Chicken, carrot, peas and spring onion."
+        },
+        {
+          "name": "Beef Fried Rice",
+          "price_from": 117.0,
+          "description": "Beef, carrot, peas and spring onion."
+        },
+        {
+          "name": "Assorted Fried Rice",
+          "price_from": 126.0,
+          "description": "Beef, chicken, prawn with carrot, peas and spring onion."
+        },
+        {
+          "name": "Seafood Fried Rice",
+          "price_from": 126.0,
+          "description": "Prawns, calamari, crab sticks, with carrot, peas and spring onion."
+        },
+        {
+          "name": "Pork Fried Rice",
+          "price_from": 111.0,
+          "description": "Pork, carrot, peas and spring onion."
+        },
+        {
+          "name": "Calamari Fried Rice",
+          "price_from": 121.0,
+          "description": "Calamari, carrot, peas and spring onion."
+        },
+        {
+          "name": "Vegetable Fried Rice",
+          "price_from": 100.0,
+          "description": "Egg, carrot, peas and spring onion."
+        },
+        {
+          "name": "Duck Fried Rice",
+          "price_from": 126.0,
+          "description": "Duck, carrot, peas and spring onion."
+        }
+      ]
+    },
+    {
+      "name": "Chow Mein (Fried Noodles)",
+      "items": [
+        {
+          "name": "Duck Fried Noodles",
+          "price_from": 126.0,
+          "description": "Duck, cabbage and carrots."
+        },
+        {
+          "name": "Chicken Fried Noodles",
+          "price_from": 111.0,
+          "description": "Chicken, cabbage and carrots."
+        },
+        {
+          "name": "Beef Fried Noodles",
+          "price_from": 117.0,
+          "description": "Beef, cabbage and carrots."
+        },
+        {
+          "name": "Pork Fried Noodles",
+          "price_from": 111.0,
+          "description": "Pork, cabbage and carrots."
+        },
+        {
+          "name": "Prawn Fried Noodles",
+          "price_from": 131.0,
+          "description": "Prawn, cabbage and carrots."
+        },
+        {
+          "name": "Vegetable Fried Noodles",
+          "price_from": 100.0,
+          "description": "Vegetable, cabbage and carrots."
+        },
+        {
+          "name": "Assorted Fried Noodles",
+          "price_from": 126.0,
+          "description": "Chicken, beef and prawn with cabbage and carrots."
+        },
+        {
+          "name": "Calamari Fried Noodles",
+          "price_from": 121.0,
+          "description": "Calamari, cabbage and carrots."
+        },
+        {
+          "name": "Seafood Fried Noodles",
+          "price_from": 126.0,
+          "description": "Prawn, crab, calamari and cabbage with carrots."
+        }
+      ]
+    },
+    {
+      "name": "Thai Red Curry",
+      "items": [
+        {
+          "name": "Thai Red Curry",
+          "price_from": 110.0,
+          "description": "A spicy and aromatic curry with rich flavors of Thai herbs and creamy coconut milk."
+        }
+      ]
+    },
+    {
+      "name": "Peri Peri",
+      "items": [
+        {
+          "name": "Peri Peri",
+          "price_from": 110.0,
+          "description": "A fiery and flavorful dish made with a blend of chili, garlic, and zesty spices."
+        }
+      ]
+    },
+    {
+      "name": "Sushi Menu",
+      "items": [
+        {
+          "name": "Hand Roll (1 pcs)",
+          "price_from": 69.0,
+          "description": "A single cone-shaped sushi roll filled with fresh ingredients and seasoned rice."
+        },
+        {
+          "name": "California Roll (4 pcs)",
+          "price_from": 74.0,
+          "description": "Four pieces of sushi rolls filled with crab, avocado, and cucumber, wrapped in seasoned rice."
+        },
+        {
+          "name": "Bean Curd Nigiri (2 pcs)",
+          "price_from": 79.0,
+          "description": "Two pieces of sushi featuring sweet bean curd pockets filled with seasoned rice."
+        },
+        {
+          "name": "Nigiri (2 pcs)",
+          "price_from": 70.0,
+          "description": "Two pieces of hand-pressed sushi topped with fresh and flavorful ingredients."
+        },
+        {
+          "name": "Fashion Sandwich (8 pcs)",
+          "price_from": 111.0,
+          "description": "Eight pieces of layered sushi with fresh fillings, wrapped in rice and seaweed."
+        },
+        {
+          "name": "Maki",
+          "price_from": 68.0,
+          "description": "Rolled sushi filled with fresh ingredients, wrapped in seaweed and seasoned rice."
+        },
+        {
+          "name": "Deep Fried 8 pcs",
+          "price_from": 131.0,
+          "description": "Eight pieces of crispy, golden deep-fried sushi with flavorful fillings."
+        },
+        {
+          "name": "Salad",
+          "price_from": 114.0,
+          "description": "A fresh and vibrant mix of crisp vegetables with a light dressing."
+        },
+        {
+          "name": "Sashimi (4 Pcs)",
+          "price_from": 118.0,
+          "description": "Four slices of fresh, premium raw fish served with delicate presentation."
+        },
+        {
+          "name": "Cheese Roll (4 Pcs)",
+          "price_from": 80.0,
+          "description": "Four pieces of creamy cheese-filled sushi rolls wrapped in seasoned rice."
+        },
+        {
+          "name": "Bamboo Roll (4 Pcs)",
+          "price_from": 74.0,
+          "description": "Four pieces of sushi rolls filled with fresh vegetables, wrapped in rice and seaweed."
+        },
+        {
+          "name": "Salmon Rose (2 Pcs)",
+          "price_from": 76.0,
+          "description": "Two delicately rolled pieces of salmon sashimi, beautifully shaped like roses."
+        },
+        {
+          "name": "Rainbow Roll (8 Pcs)",
+          "price_from": 121.0,
+          "description": "Eight colorful sushi rolls topped with a variety of fresh fish and avocado."
+        },
+        {
+          "name": "Dragon Roll (8 Pcs)",
+          "price_from": 107.0,
+          "description": "Eight pieces of sushi rolls topped with avocado and eel for a flavorful bite."
+        },
+        {
+          "name": "West Roll (10 Pcs)",
+          "price_from": 121.0,
+          "description": "Ten pieces of sushi rolls filled with a flavorful mix of fresh ingredients."
+        },
+        {
+          "name": "Salmon House (8 Pcs)",
+          "price_from": 126.0,
+          "description": "Eight pieces of sushi rolls featuring fresh salmon and flavorful fillings."
+        },
+        {
+          "name": "Grilled Cheese",
+          "price_from": 89.0,
+          "description": "Golden, crispy bread filled with melted, savory cheese."
+        },
+        {
+          "name": "Volcano Roll (4 Pcs)",
+          "price_from": 104.0,
+          "description": "Four pieces of sushi rolls topped with a spicy, creamy sauce for a fiery kick."
+        },
+        {
+          "name": "Wasabi Parcel (9 Pcs)",
+          "price_from": 136.0,
+          "description": "Nine pieces of delicate parcels infused with a touch of spicy wasabi flavor."
+        },
+        {
+          "name": "King Sandwich",
+          "price_from": 76.0,
+          "description": "A hearty and flavorful sandwich loaded with premium ingredients fit for a king."
+        },
+        {
+          "name": "Sushi Cake",
+          "price_from": 93.0,
+          "description": "A layered cake of sushi rice, fresh fish, and vibrant toppings crafted for sharing."
+        },
+        {
+          "name": "Prawn Avalanche (4 Pcs)",
+          "price_from": 86.0,
+          "description": "Four pieces of sushi rolls topped with prawns and a creamy, flavorful sauce."
+        },
+        {
+          "name": "Strawberry Cheese (4 Pcs)",
+          "price_from": 79.0,
+          "description": "Four pieces of sushi rolls filled with sweet strawberry and creamy cheese."
+        }
+      ]
+    },
+    {
+      "name": "Sushi Combos & Platters",
+      "items": [
+        {
+          "name": "Maki & Nigiri Mix (18 piece)",
+          "price_from": 157.0,
+          "description": "Salmon, avocado, cucumber maki, salmon & prawn nigiri"
+        },
+        {
+          "name": "Mix Platter (28 piece)",
+          "price_from": 360.0,
+          "description": "Salmon sashimi, salmon maki, prawn maki, prawn nigiri & salmon nigiri"
+        },
+        {
+          "name": "Assorted Platter (22 piece)",
+          "price_from": 348.0,
+          "description": "West roll, salmon hand roll, prawn hand roll, prawn nigiri, salmon nigiri, crab salad, crab california roll"
+        },
+        {
+          "name": "Salmon Combo (13 piece)",
+          "price_from": 203.0,
+          "description": "A delightful combo of 13 pieces featuring fresh salmon prepared in various styles."
+        },
+        {
+          "name": "Vegetable Combo (13 piece)",
+          "price_from": 175.0,
+          "description": "Hand roll, fashion sandwich & california roll"
+        },
+        {
+          "name": "Salmon Maki & California Roll Combo (24 piece)",
+          "price_from": 208.0,
+          "description": "Salmon & avocado maki, salmon & prawn california roll"
+        },
+        {
+          "name": "NEW Hungry Platter (24 piece)",
+          "price_from": 345.0,
+          "description": "Prawn fashion sandwich, salmon fashion sandwich, salmon maki."
+        },
+        {
+          "name": "Large Platter (42 piece)",
+          "price_from": 488.0,
+          "description": "Salmon maki, prawn maki, prawn nigiri, salmon nigiri, salmon rose, prawn california, rainbow roll"
+        },
+        {
+          "name": "Assorted Combo (26 piece)",
+          "price_from": 278.0,
+          "description": "Salmon & prawn nigiri, salmon & avo maki, salmon sandwich, rainbow roll, prawn california roll"
+        },
+        {
+          "name": "Assorted Nigiri Roll Platter (34 piece)",
+          "price_from": 389.0,
+          "description": "West roll, salmon maki, prawn maki, prawn nigiri & salmon nigiri"
+        },
+        {
+          "name": "Salmon Platter (16 piece)",
+          "price_from": 287.0,
+          "description": "California roll, salmon nigiri, salmon sashimi"
+        },
+        {
+          "name": "Combo Roll (28 piece)",
+          "price_from": 245.0,
+          "description": "Salmon & avocado maki roll & salmon house, crab california roll"
+        },
+        {
+          "name": "Chef's Platter (30 piece)",
+          "price_from": 305.0,
+          "description": "Fashion sandwiches, rainbow roll, maki roll, cheese roll & salmon rose"
+        }
+      ]
+    },
+    {
+      "name": "Special Sushi Platters",
+      "items": [
+        {
+          "name": "Special 1 (8 Pcs)",
+          "price_from": 207.0,
+          "description": "Tempura been curd (2pcs),salmon rose (2pcs),bamboo roll (4pcs)."
+        },
+        {
+          "name": "Special 2 (14 Pcs)",
+          "price_from": 200.0,
+          "description": "Salmon rose (2pcs),salmon maki (4pcs),avo maki (4pcs),salmon Fashion sandwich (4pcs)."
+        },
+        {
+          "name": "Special 3 (30 Pcs)",
+          "price_from": 326.0,
+          "description": "Salmon rose (2pcs),salmon maki (4pcs),avo maki (4pcs),salmon Fashion sandwich (8pcs),rainbow roll (8pcs), California roll (4pcs)."
+        },
+        {
+          "name": "Special 4 (17 Pcs)",
+          "price_from": 197.0,
+          "description": "salmon maki (4pcs),avo maki (4pcs),salmon Fashion sandwich (4pcs),west roll (5pcs)"
+        },
+        {
+          "name": "Special 5 (25 Pcs)",
+          "price_from": 254.0,
+          "description": "salmon maki (4pcs),avo maki (4pcs),salmon Fashion sandwich (4pcs),west roll (5pcs),rainbow roll (4pcs), California roll (4pcs)"
+        },
+        {
+          "name": "Special 6 (26 Pcs)",
+          "price_from": 321.0,
+          "description": "salmon maki (4pcs),avo maki (4pcs),salmon Fashion sandwich (8pcs),nigiri (2pcs),rainbow roll (4pcs), California roll (4pcs)."
+        },
+        {
+          "name": "Special 7 (20 Pcs)",
+          "price_from": 211.0,
+          "description": "Prawn maki (8pcs),prawn Fashion sandwich (4pcs),prawn California roll (8pcs)."
+        },
+        {
+          "name": "Special 8 (20 Pcs)",
+          "price_from": 215.0,
+          "description": "Tuna maki (8pcs),salmon Fashion sandwich (4pcs),tuna California roll (4pcs),Crab California roll (4pcs)."
+        },
+        {
+          "name": "N7 Maki & Nigiri Mix (18 Pcs)",
+          "price_from": 174.0,
+          "description": "salmon maki (8pcs),avo maki (8pcs),Salmon Nigiri (1pcs),Prawn Nigiri (1pcs),"
+        },
+        {
+          "name": "N8 Salmon & Avo Maki Roll (24 Pcs)",
+          "price_from": 223.0,
+          "description": "Tuna maki (8pcs),avo maki (8pcs), salmon & prawn California roll (8pcs)."
+        },
+        {
+          "name": "N9 Assorted Nigiri Roll (34 Pcs)",
+          "price_from": 421.0,
+          "description": "Salmon maki (8pcs),avo maki (8pcs),Salmon Nigiri (4pcs),Prawn Nigiri (4pcs),salmon west roll (10pcs)."
+        },
+        {
+          "name": "N10 Mix Platter",
+          "price_from": 407.0,
+          "description": "salmon maki (8pcs),avo maki (8pcs),Salmon Nigiri (4pcs),Prawn Nigiri (4pcs),Salmon sashimi (4pcs)."
+        },
+        {
+          "name": "N12 Salmon Platter (16 Pcs)",
+          "price_from": 321.0,
+          "description": "Salmon sashimi (4pcs),Salmon Nigiri (4pcs),salmon California roll (8pcs)."
+        },
+        {
+          "name": "N13 Assorted Platter (22 Pcs)",
+          "price_from": 393.0,
+          "description": "Salmon Nigiri (2pcs),Prawn Nigiri (2pcs),salmon California roll (4pcs),Crab & salmon salad (2pcs),salmon wheat roll(10pcs),Salmon & Crab hand roll(2pcs)"
+        },
+        {
+          "name": "N14 Large Platter (42 Pcs)",
+          "price_from": 555.0,
+          "description": "Salmon maki (8pcs),prawn maki (8pcs),salmon Fashion sandwich (8pcs),prawn California roll (4pcs),Rainbow roll (8pcs),Salmon Nigiri (2pcs),Prawn Nigiri (2pcs),salmon rose (2pcs)."
+        },
+        {
+          "name": "N15 Combo Roll (28 Pcs)",
+          "price_from": 270.0,
+          "description": "Salmon maki (8pcs),Avo maki (8pcs),salmon California roll (4pcs),Rainbow roll (8pcs)."
+        },
+        {
+          "name": "N16 Salmon Combo (13 Pcs)",
+          "price_from": 256.0,
+          "description": "Salmon Fashion sandwich (8pcs),salmon California roll (4pcs),salmon hand roll (1pcs)."
+        },
+        {
+          "name": "N17 Veg Combo (13 Pcs)",
+          "price_from": 200.0,
+          "description": "Avo Fashion sandwich (8pcs),Avo California roll (4pcs),Veg hand roll (1pcs)."
+        },
+        {
+          "name": "N18 Assorted Combo (26 Pcs)",
+          "price_from": 311.0,
+          "description": "Avo maki (8pcs),salmon Fashion sandwich (8pcs),Rainbow roll (4pcs),Salmon Nigiri (1pcs),Prawn Nigiri (1pcs),salmon California roll(4pcs)."
+        },
+        {
+          "name": "N19 Chef's Platter (30 Pcs)",
+          "price_from": 354.0,
+          "description": "Salmon maki (4pcs),Avo maki (4pcs),salmon Fashion sandwich (8pcs),salmon California roll(4pcs),Salmon rose (2pcs),Rainbow roll (8pcs)."
+        },
+        {
+          "name": "N20 Hungry Platter (36 Pc)",
+          "price_from": 383.0,
+          "description": "Tuna maki (8pcs),Avo maki (8pcs),salmon Fashion sandwich (8pcs),Prawn Fashion sandwich (8pcs),salmon California roll (4pcs)."
+        }
+      ]
+    },
+    {
+      "name": "Extras",
+      "items": [
+        {
+          "name": "Sweet & Sour Sauce (35ml)",
+          "price_from": 26.0,
+          "description": "A deliciously tangy and sweet sauce with a perfect balance of flavor."
+        },
+        {
+          "name": "Sweet & Sour Sauce (35ml)",
+          "price_from": 26.0,
+          "description": "A deliciously tangy and sweet sauce with a perfect balance of flavor."
+        },
+        {
+          "name": "Sweet Chilli Sauce (35ml)",
+          "price_from": 26.0,
+          "description": "A flavorful sauce combining sweetness with a hint of spicy chili."
+        },
+        {
+          "name": "Fried Noodles",
+          "price_from": 43.0,
+          "description": "Stir-fried noodles tossed with vegetables and savory seasonings."
+        },
+        {
+          "name": "Fried Rice",
+          "price_from": 40.0,
+          "description": "Wok-tossed rice mixed with vegetables and flavorful seasonings."
+        }
+      ]
+    },
+    {
+      "name": "Desserts & Sweets",
+      "items": [
+        {
+          "name": "Fortune Cookie",
+          "price_from": 10.0,
+          "description": "A crisp cookie with a hidden message or fortune inside."
+        },
+        {
+          "name": "Deep Fried Ice Cream",
+          "price_from": 25.0,
+          "description": "Creamy ice cream encased in a crispy, golden deep-fried shell."
+        }
+      ]
+    }
+  ]
+}
